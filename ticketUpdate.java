@@ -11,10 +11,7 @@ import net.proteanit.sql.DbUtils;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Kunal
- */
+
 public class ticketUpdate extends javax.swing.JFrame {
 
     /**
